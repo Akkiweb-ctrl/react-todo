@@ -1,0 +1,31 @@
+.title{
+    margin-bottom: 1.5rem;;
+}
+input{
+    padding: 0.25rem;
+}
+.add-task, .task-item{
+    margin:1rem;
+}
+
+.task-container{
+    background-color: aqua;
+    width: 600px;
+    padding: 2rem 5rem;
+    /* align-self: center; */
+}
+.task-items{
+    text-align: left;
+}
+.main-container{
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+.action-btn{
+    min-width: 4.5rem;
+    margin :0 1rem;
+}
